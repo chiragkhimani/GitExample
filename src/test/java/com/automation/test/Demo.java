@@ -10,6 +10,5 @@ public class Demo {
 		
 		System.out.println("Guljahan's try");
 		
-		System.out.println("More update from my side");
 	}
 }
